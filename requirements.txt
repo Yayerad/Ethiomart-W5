@@ -1,0 +1,4 @@
+telethon 
+pandas 
+nltk
+python-dotenv
