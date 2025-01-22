@@ -28,7 +28,6 @@ data (such as product names, prices, and locations) from unstructured Amharic Te
 <pre style="font-family:Courier New, monospace; font-size:13px; background-color:#F4F6F7; padding:10px; border-radius:5px;">
 ├── notebooks                   # Jupyter notebooks for fine-tuning and experimentation
 │   ├── __init__.py
-│   ├── afroxmlr_fine_tune.ipynb    # Fine-tuning AfroXLM-R for NER tasks
 │   ├── bert_fine_tuning.ipynb      # Fine-tuning BERT-tiny for NER tasks
 │   └── roberta_fine_tune.ipynb    # Fine-tuning RoBERTa for NER tasks
 │
